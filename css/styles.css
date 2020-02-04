@@ -1,0 +1,58 @@
+body{
+    /* border: 2px solid; */
+    background-color: #f1f1f6;
+    
+    
+}
+
+
+h1{
+   color: #48d1cc;
+   /* margin: 420px;  */
+   margin-left: 400px;
+    
+}
+.contact-header{
+    color: teal;
+    margin: 20px auto 0 20px;
+    background-color: white;
+    padding: 20px;
+}
+/* .navbar{
+    text-align: center;
+} */
+
+.navbar-brand{
+    background-color: #48d1cc;
+    padding: 30px;
+    font-size: 20px;
+    /* margin-left: 360px; */
+    color: white;
+}
+
+.paragraph-1{
+    margin-left: 0;
+}
+img{
+    /* padding: 0; */
+}
+.submit{
+    background-color: teal;
+    color: white;
+}
+
+.navbar-brand.custom{
+    color:white;
+  }
+  #contact-class{
+      margin-left: 20px;
+      background-color: white;
+  }
+  .section1{
+    background-color: white;
+}
+.contact-hr{
+    margin: 0;
+    padding: 0;
+
+}
